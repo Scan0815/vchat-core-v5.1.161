@@ -16,7 +16,6 @@
     ],
     "license": "MIT",
     "dependencies": {
-        "ts-polyfill": "3.6.5",
         "xmlentities": "0.2.0"
     },
     "devDependencies": {
